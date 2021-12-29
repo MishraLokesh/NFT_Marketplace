@@ -1,3 +1,3 @@
-# NFT_Marketplace
+# starter_kit
 
-ERC-721 smart contracts for creating NFTs using openzepplin
+Truffle configured starter kit for working on dApps
